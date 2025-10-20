@@ -49,7 +49,7 @@ Level 2 | Essential | Example
 ------------------------------------------------|------------------------------------------------|-----------------------------------------
 [11] | Simple port scanner | :heavy_check_mark:
 [12] | Port scanner with OS fingerprint using TTL (Time To Live) | :heavy_check_mark: 
-[13] | Port scanner with port footprint (HTTP? DNS? FTP? IRC?) | :x:
+[13] | Port scanner with port footprint (HTTP? DNS? FTP? IRC?) | :heavy_check_mark: 
 [14] | Simple Web Directory brute-forcer (Threaded) | :heavy_check_mark:
 [15] | Recursive Web Directory brute-forcer (Threaded peer recursion) | :heavy_check_mark:
 [16] | Web Login bruteforce tool | :x:
